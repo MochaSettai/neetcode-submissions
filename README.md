@@ -1,6 +1,6 @@
 # NeetCode Solutions — @MochaSettai
 
-> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions-4ugphrpg`
+> Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
 ---
 
